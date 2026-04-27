@@ -1,0 +1,14 @@
+# Dataset (terlalu besar untuk GitHub)
+Data/
+
+# File penjelasan internal tim
+PENJELASAN_*.txt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
