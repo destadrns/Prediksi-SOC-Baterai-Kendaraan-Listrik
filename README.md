@@ -50,7 +50,7 @@ Battery/
 
 ## Tahapan Proyek
 
-### Week 1 -- Business Understanding
+### Business Understanding
 
 Menentukan masalah, kriteria keberhasilan, dan faktor-faktor yang mempengaruhi prediksi SOC pada kendaraan listrik.
 
@@ -58,7 +58,7 @@ Menentukan masalah, kriteria keberhasilan, dan faktor-faktor yang mempengaruhi p
 - **Target:** MAE <= 2%, R2 >= 0.98
 - **Faktor utama:** Tegangan terminal, arus beban, suhu baterai, dan suhu lingkungan
 
-### Week 2 -- Data Understanding
+### Data Understanding
 
 Eksplorasi awal terhadap dataset, termasuk identifikasi struktur data, statistik deskriptif, dan visualisasi.
 
@@ -68,7 +68,7 @@ Eksplorasi awal terhadap dataset, termasuk identifikasi struktur data, statistik
 - Visualisasi distribusi, time series, scatter plot, heatmap korelasi, dan boxplot
 - Kesimpulan: dataset bersih, tidak ada missing value
 
-### Week 3 -- Data Preparation
+### Data Preparation
 
 Demonstrasi teknik penanganan missing value dan class imbalance melalui simulasi.
 
@@ -90,7 +90,7 @@ Hasil: Interpolasi Linear memberikan MAE terkecil, sesuai dengan karakteristik d
 | Random Oversampling | Duplikasi data dari kelas minoritas | Tinggi |
 | Synthetic Generation | Interpolasi antar data point | Rendah |
 
-### Week 4-5 -- Feature Selection dan Dimensionality Reduction
+### Feature Selection dan Dimensionality Reduction
 
 Eksperimen perbandingan 6 skenario terhadap performa model klasifikasi SOC (5 kelas).
 
