@@ -18,7 +18,7 @@ Pendekatan yang digunakan meliputi eksplorasi data, simulasi penanganan missing 
 
 Dataset berasal dari eksperimen yang dilakukan oleh Dr. Phillip Kollmeyer di McMaster University, Kanada.
 
-**[Download Dataset](MASUKKAN_LINK_DATASET_DISINI)**
+**[Download Dataset](https://data.mendeley.com/datasets/b5mj79w5w9/2)**
 
 | Aspek | Detail |
 |---|---|
