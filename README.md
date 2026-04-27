@@ -40,10 +40,10 @@ Battery/
     week2/                                 # Visualisasi Data Understanding
     week3/                                 # Visualisasi Data Preparation
     week4&5/                               # Visualisasi Feature Selection
-  Week1_Business_Understanding.ipynb       # Definisi masalah dan tujuan
-  Week2_Data_Understanding.ipynb           # Eksplorasi dan analisis data
-  Week3_Data_Preparation.ipynb             # Missing value & class imbalance
-  Week4&5_Feature_Selection.ipynb          # Feature selection & dimensionality reduction
+  Business_Understanding.ipynb             # Definisi masalah dan tujuan
+  Data_Understanding.ipynb                 # Eksplorasi dan analisis data
+  Data_Preparation.ipynb                   # Missing value & class imbalance
+  Feature_Selection.ipynb                  # Feature selection & dimensionality reduction
 ```
 
 ---
@@ -139,10 +139,10 @@ Evaluasi: Accuracy, Precision, Recall, F1-Score, Confusion Matrix
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupytext
    ```
 4. Buka notebook secara berurutan:
-   - `Week1_Business_Understanding.ipynb`
-   - `Week2_Data_Understanding.ipynb`
-   - `Week3_Data_Preparation.ipynb`
-   - `Week4&5_Feature_Selection.ipynb`
+   - `Business_Understanding.ipynb`
+   - `Data_Understanding.ipynb`
+   - `Data_Preparation.ipynb`
+   - `Feature_Selection.ipynb`
 
 ---
 
